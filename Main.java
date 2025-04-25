@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 //Información del visitante
+
         String Nom = "Michael";
         int Ced = 8925719;
         byte Edad = 27;
@@ -16,7 +17,9 @@ public class Main {
        System.out.println("Cedula: " + Ced);
        System.out.println("Edad: " + Edad);
        System.out.println("Residente: " + Residente);
-       System.out.println("Torre,piso: " + Piso);
+       System.out.println("Piso: " + Piso);
+       System.out.println("Torre del complejo: " + Torre);
+       System.out.println("Numero de apartamento: " + Apartment);
        System.out.println("Altura: " + Estatura);
        System.out.println("id: " + ID);
     }
