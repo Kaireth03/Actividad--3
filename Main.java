@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
-        String Nom = "Andres Rueda";
+        String Nom = "Michael";
         int Ced = 8925719;
-        byte Edad = 18;
+        byte Edad = 27;
         boolean Residente = false;
-        double Piso = 2.6;
-        float Estatura = 1.70F;
+        double Piso = 5;
+        float Estatura = 1.80F;
         long ID = 13564210481L;
 
        System.out.println("Datos del visitante:");
